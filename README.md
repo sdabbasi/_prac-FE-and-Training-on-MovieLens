@@ -1,0 +1,3 @@
+### File feature_engineering notebook contains a set of exploratory data analysis (EDA), data preprocessing and feature engineering operations on MovieLens dataset (1 million) in order to prepare it for training process.
+
+### File train_test_model notebook contains neural network model designed and trained using PyTorch framework on the previously prepared data. All required processes including data loading, batching , embedding, normalizing and model assessing are implemented.
